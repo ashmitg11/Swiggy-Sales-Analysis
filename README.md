@@ -69,7 +69,9 @@ The goal of this project is to analyze Swiggy sales data and provide actionable 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](SCREENSHOTS/DASHBOARD%20SCREEN%20SHOT.png)
+## Dashboard Preview
+
+![Dashboard Preview](SCREEN%20SHOTS/Dashboard%20Screenshot.png)
 
 ---
 
